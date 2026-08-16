@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "OperatingSystem/Part1-Conception/1-1 basicconception.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -190,8 +190,8 @@
   },
   "active": "56fbdc49a8c29fe2",
   "lastOpenFiles": [
-    "OperatingSystem/Part1-Conception/1-1 basicconception.md",
     "README.md",
+    "OperatingSystem/Part1-Conception/1-1 basicconception.md",
     "未命名.canvas",
     "2026-08-16.md"
   ]
